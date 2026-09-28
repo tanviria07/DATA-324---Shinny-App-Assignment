@@ -1,6 +1,6 @@
 # DATA 324 - Shiny App Assignment
 
-Homework 5 (Fall 2026). A Shiny app for comparing players from two squads at the 2026 World Cup.
+Homework 5 For Dr. Thatcher's DATA 324 Class (Fall 2026). A Shiny app for comparing players from two squads at the 2026 World Cup.
 
 ## What it does
 
